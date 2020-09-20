@@ -1,4 +1,4 @@
-#Captures images using a Windows' laptop camera and uploads the image to AWS S3 bucket
+# Captures images using a Windows' laptop camera and uploads the image to AWS S3 bucket
 
 import cv2
 import time
